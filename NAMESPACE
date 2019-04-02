@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(dplyr)
+import(rootSolve)
+import(ggplot2)
+import(Rmpfr)
