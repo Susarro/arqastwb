@@ -2,8 +2,8 @@ Package: arqastwb
 Type: Package
 Title: Archaeoastronomy algorithms
 Version: 0.1.0
-Author: Miguel Ángel González
-Maintainer: Miguel Ángel González <susarro@gmail.com>
+Author: Miguel Angel Gonzalez
+Maintainer: Miguel Angel Gonzalez <susarro@gmail.com>
 Description: Provides data types and algorithms for archaeoastronomical studies. It's based on Jean Meeus' Astronomical Algorithms.
 License: GPL-3
 Encoding: UTF-8
